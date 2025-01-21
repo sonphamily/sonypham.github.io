@@ -8,7 +8,7 @@ Hi, My name is Son Pham and I’m a Mathematics and Statistics student at the Un
 I am seeking for internship experience in Biometric/Biostatistics with three following discipline 1) Statistcal Programming, 2) Data Management, 3) Data Science, in order to prepare me for top graduate programs in Biostatistics.
 
 ## EDUCATION
-- Bachelor of Arts in Mathematics, General | University of South Florida (_expected December 2025_)
+- Bachelor of Arts in Mathematics | University of South Florida (_December 2025_)
 - Bachelor of Arts in Statistics | University of South Florida (_May 2024_)
 
 ### COURSEWORK
@@ -20,10 +20,12 @@ I am seeking for internship experience in Biometric/Biostatistics with three fol
 **Research Trainee in Omics Data Science @ H. Lee Moffitt Cancer Center and Research Institute (November 2024 - Present)**
 - sfdsdg
 - sdfgsdgsd
-![](https://github.com/sonphamily/sonypham.github.io/blob/main/images/Screen%20Shot%202025-01-17%20at%2021.55.27.png)
+
 
 **Research Assistant @ SPACHeS Lab, University of South Florida (July 2023 - Present)**
 - sfsdfs
 - sdfsdgg
+
+![](https://github.com/sonphamily/sonypham.github.io/blob/main/images/Screen%20Shot%202025-01-17%20at%2021.55.27.png)
 
 ## RESEARCH CONFERENCE
