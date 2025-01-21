@@ -1,5 +1,10 @@
 title: Son Pham (Sony)
 logo: /images/profilepicture.jpeg
 #description: text below image 
+social_links:
+  twitter: https://twitter.com/yourhandle
+  github: https://github.com/yourusername
+  linkedin: https://linkedin.com/in/yourprofile
+
 show_downloads: true
 theme: jekyll-theme-minimal
