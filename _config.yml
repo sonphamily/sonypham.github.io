@@ -1,4 +1,4 @@
-title: Son Pham (Sony)
+title: SON THANH PHAM
 logo: /images/profilepicture.jpeg
 #description: text below image 
 social_links:
@@ -6,5 +6,5 @@ social_links:
   github: https://github.com/yourusername
   linkedin: https://linkedin.com/in/yourprofile
 
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
