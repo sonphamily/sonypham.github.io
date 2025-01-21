@@ -21,7 +21,8 @@ I am seeking for internship experience in Biometric/Biostatistics with three fol
 - sfdsdg
 - sdfgsdgsd
 ![](https://github.com/sonphamily/sonypham.github.io/blob/main/images/Screen%20Shot%202025-01-17%20at%2021.55.27.png)
-**Research Assistant @ SPACHeS Lab, University of South Florida (July 2023 - Present)
+
+**Research Assistant @ SPACHeS Lab, University of South Florida (July 2023 - Present)**
 - sfsdfs
 - sdfsdgg
 
