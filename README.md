@@ -12,9 +12,9 @@ I am seeking for internship experience in Biometric/Biostatistics with three fol
 - Bachelor of Arts in Statistics | University of South Florida (_May 2024_)
 
 ### COURSEWORK
-Mathematics: Linear Algebra, Vector Calculus, Discrete Structure, Differential Equation, Quantum Computing, Modern Crytography, Abstract Algebra
-Statistics: Statistics I&II, Mathematical Statistics I&II, Intro to Probability, Sample Survey, Nonparametric Statistics
-Programming: Applied Statistics (R), Intro to programming (Python), Computational Linear Algebra (MATLAB), Program design (C), Symbolics Computation in Math (Maple)
+- Mathematics: Linear Algebra, Vector Calculus, Discrete Structure, Differential Equation, Quantum Computing, Modern Crytography, Abstract Algebra
+- Statistics: Statistics I&II, Mathematical Statistics I&II, Intro to Probability, Sample Survey, Nonparametric Statistics
+- Programming: Applied Statistics (R), Intro to programming (Python), Computational Linear Algebra (MATLAB), Program design (C), Symbolics Computation in Math (Maple)
 
 ## EXPERIENCE 
 **Research Trainee in Omics Data Science @ H. Lee Moffitt Cancer Center and Research Institute (November 2024 - Present)**
