@@ -18,14 +18,11 @@ I am seeking for internship experience in Biometric/Biostatistics with three fol
 
 ## EXPERIENCE 
 **Research Trainee in Omics Data Science @ H. Lee Moffitt Cancer Center and Research Institute (November 2024 - Present)**
-- sfdsdg
-- sdfgsdgsd
-
-
 **Research Assistant @ SPACHeS Lab, University of South Florida (July 2023 - Present)**
-- sfsdfs
-- sdfsdgg
+
 
 ![](https://github.com/sonphamily/sonypham.github.io/blob/main/images/Screen%20Shot%202025-01-17%20at%2021.55.27.png)
 
-## RESEARCH CONFERENCE
+## RESEARCH CONFERENCE ATTEND
+- Presenter @ National Research Conference at University of Pennsylvania 2024
+
