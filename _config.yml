@@ -1,5 +1,5 @@
 title: SON THANH PHAM
-logo: images/profilepicture.jpeg
+logo: /images/profilepicture.jpeg
 description: text below image 
 show_downloads: true
 theme: jekyll-theme-minimal
