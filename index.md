@@ -17,14 +17,14 @@ Hi, My name is Son Pham and I’m a Mathematics and Statistics student at the Un
 
 ## EDUCATION
 
-> - Bachelor of Arts in Mathematics | University of South Florida (_December 2025_)
-> - Bachelor of Arts in Statistics  | University of South Florida (_May 2024_)
+> - Bachelor of Arts in Mathematics | @ University of South Florida (_December 2025_)
+> - Bachelor of Arts in Statistics  | @ University of South Florida (_May 2024_)
 
 
 ## EXPERIENCE
 
-> - Research Trainee    |   Moffitt Cancer Center (_November 2024 - Present_)
-> - Research Assistant  |   SPACHeS Lab, USF (_July 2023 - Present_)
+> - Research Trainee    |   @ Moffitt Cancer Center (_November 2024 - Present_)
+> - Research Assistant  |   @ SPACHeS Lab, USF (_July 2023 - Present_)
 
 ##### EXTRACURRICULAR
 
