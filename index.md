@@ -116,10 +116,18 @@ end
 <dd>Green</dd>
 </dl>
 
+#### CONTACT INFORMATION
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+EMAIL: thanhsonpham@usf.edu or thanhsonpham2002@gmail.com
 ```
 
 ```
-The final element.
+MOBLE PHONE: (+1) 813 - 593 - 6449
+```
+```
+LINKEDIN: https://www.linkedin.com/in/sonpham33102/
+```
+
+```
+GITHUB: https://github.com/sonphamily/
 ```
