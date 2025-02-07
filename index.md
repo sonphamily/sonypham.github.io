@@ -23,8 +23,8 @@ Hi, My name is Son Pham and I’m a Mathematics and Statistics student at the Un
 
 ## EXPERIENCE
 
-> - Research Trainee in Omics Data Science | @ Moffitt Cancer Center (_November 2024 - Present_)
-> - Research Assistant | @ SPACHeS Lab, University of South Florida (_July 2023 - Present_)
+> - Research Trainee | Moffitt Cancer Center (_November 2024 - Present_)
+> - Research Assistant | SPACHeS Lab, USF (_July 2023 - Present_)
 
 ##### EXTRACURRICULAR
 
