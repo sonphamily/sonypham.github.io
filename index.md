@@ -1,7 +1,5 @@
 
----
-
----
+![Octocat](https://github.com/sonphamily/sonypham.github.io/blob/main/images/profilepicture.jpeg)
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or 
 `TECHNICAL SKILLS: Python, R, SAS, SQL, MATLAB, C/C++, Maple, Latex`.
