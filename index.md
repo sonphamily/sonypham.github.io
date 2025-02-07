@@ -1,11 +1,8 @@
 
 `TECHNICAL SKILLS: Python, R, SAS, SQL, MATLAB, C/C++, Maple, Latex`.
 
-[Link to another page](./another-page.html).
+[SPAHCeS Lab Member](https://www.spaches.org/members#h.p46uu7ue5hh6).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # BIO
 
@@ -38,26 +35,8 @@ Hi, My name is Son Pham and I’m a Mathematics and Statistics student at the Un
 | Probability                  | Differential Equation            | Program Design (C)                   |
 | Noparamtrics Statistics      | Abstract Algebra                 | Symbolic Computation in Maths (Maple)|
 
-### There's a horizontal rule below this.
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-
-### Programming Language
+### Programming 
 
 ```js
 // Javascript code with syntax highlighting.
@@ -73,43 +52,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-### And a nested list:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 #### CONTACT INFORMATION
 ```
