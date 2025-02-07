@@ -1,4 +1,4 @@
-# Research Trainee in Biostatistics and Data Science
+
 
 
 #### TECHNICAL SKILLS: Python, R, SAS, SQL, MATLAB, C/C++, Maple, Latex
