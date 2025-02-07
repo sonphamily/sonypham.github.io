@@ -34,13 +34,13 @@ Hi, My name is Son Pham and I’m a Mathematics and Statistics student at the Un
 
 ###### COURSEWORK
 
-| Statistics                   |   Mathematics                    | Programming                         |
-|:-----------------------------|:---------------------------------|:------------------------------------|
-| Intro to Statistics          | Linear Algebra                   | Intro to Programming (Python)       |
-| Mathematical Statistics      | Vector Calculus                  | Applied Statistics (R)              |
-| Sample Survey Design         | Discrete Mathematics             | Computational Linear Algebra (Matlab|
-| Probability                  | Differential Equation            | Program Design (C)                  |
-| Noparamtrics Statistics      | Abstract Algebra                 | Symbolic Computation in Maths       |
+| Statistics                   |   Mathematics                    | Programming                          |
+|:-----------------------------|:---------------------------------|:-------------------------------------|
+| Intro to Statistics          | Linear Algebra                   | Intro to Programming (Python)        |
+| Mathematical Statistics      | Vector Calculus                  | Applied Statistics (R)               |
+| Sample Survey Design         | Discrete Mathematics             | Computational Linear Algebra (Matlab |
+| Probability                  | Differential Equation            | Program Design (C)                   |
+| Noparamtrics Statistics      | Abstract Algebra                 | Symbolic Computation in Maths (Maple)|
 
 ### There's a horizontal rule below this.
 
