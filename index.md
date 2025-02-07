@@ -1,9 +1,10 @@
 
 ---
-layout: default
+
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Text can be **bold**, _italic_, ~~strikethrough~~ or 
+`TECHNICAL SKILLS: Python, R, SAS, SQL, MATLAB, C/C++, Maple, Latex`.
 
 [Link to another page](./another-page.html).
 
