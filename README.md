@@ -1,4 +1,4 @@
-
+Text can be **bold**, _italic_, ~~strikethrough~~ 
 
 
 #### TECHNICAL SKILLS: Python, R, SAS, SQL, MATLAB, C/C++, Maple, Latex
