@@ -11,53 +11,36 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# BIO
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hi, My name is Son Pham and I’m a Mathematics and Statistics student at the University of South Florida, Tampa. As a highly motivated research trainee in Biostatistics and Data Science, my interests involve solving interdisciplinary biomedical and health science problems in public health industry using quantitative skills including statistics, data analytics, and machine learning. I am seeking for internship experience with three following discipline 1) Biostatistical Methods, 2) Statistics , 3) Health Data Science, in order to prepare me for top graduate programs in Biostatistics.
 
-## Header 2
+## EDUCATION
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> - Bachelor of Arts in Mathematics | University of South Florida (_December 2025_)
+> - Bachelor of Arts in Statistics | University of South Florida (_May 2024_)
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+#### EXPERIENCE
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+*   Research Trainee in Omics Data Science @ H. Lee Moffitt Cancer Center and Research Institute (November 2024 - Present)
+*   Research Assistant @ SPACHeS Lab, University of South Florida (July 2023 - Present).
 
-#### Header 4
+##### EXTRACURRICULAR
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
+1.  Presenter @ National Research Conference at University of Pennsylvania 2024
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### COURSEWORK
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Statistics                   |   Mathematics                    | Programming                         |
+|:-----------------------------|:---------------------------------|:------------------------------------|
+| Intro to Statistics          | Linear Algebra                   | Intro to Programming (Python)       |
+| Mathematical Statistics      | Vector Calculus                  | Applied Statistics (R)              |
+| Sample Survey Design         | Discrete Mathematics             | Computational Linear Algebra (Matlab|
+| Probability                  | Differential Equation            | Program Design (C)                  |
+| Noparamtrics Statistics      | Abstract Algebra                 | Symbolic Computation in Maths       |
 
 ### There's a horizontal rule below this.
 
@@ -77,6 +60,23 @@ end
 1.  Item three
 1.  Item four
 
+
+### Programming Language
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 ### And a nested list:
 
 - level 1 item
