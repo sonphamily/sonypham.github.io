@@ -44,20 +44,25 @@ Seeking relevant experience in (1) Biostatistics  (2) Health Data Science
 
 ### Programming 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+```python
+// Python
+print("Hello World! I am Sony Pham.")
+```
+
+```R
+# R
+print("I love working with Data Science and Biostatistical methods!")
+```
+
+```C++
+#include<iostream>
+using namespace std;
+int main()
+{
+  cout << "Hire me!";
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
