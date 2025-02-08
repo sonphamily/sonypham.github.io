@@ -6,7 +6,13 @@
 
 # BIO
 ```
-Hi, My name is Son Pham and I’m a Mathematics and Statistics student at the University of South Florida, Tampa. As a highly motivated research trainee in Biostatistics and Data Science, my interests involve solving interdisciplinary biomedical and health science problems in public health industry using quantitative skills including statistics, data analytics, and machine learning. I am seeking for internship experience with three following discipline 1) Biostatistical Methods, 2) Statistics , 3) Health Data Science, in order to prepare me for top graduate programs in Biostatistics.
+Hi, My name is Son Pham and I’m a Research Trainee in Biostatistics
+```
+```
+My interests involve solving statistical and data science problems in healthcare.
+```
+```
+Seeking relevant experience in (1) Biostatistics  (2) Health Data Science
 ```
 ## EDUCATION
 
