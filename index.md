@@ -28,8 +28,8 @@ Seeking relevant experience in (1) Biostatistics  (2) Health Data Science
 ##### EXTRACURRICULAR
 
 1.  Presenter @ National Research Conference at University of Pennsylvania 2024
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+2.  USF Hackathon - Hackbull 2022 third prize 
+
 
 
 ### Programming 
