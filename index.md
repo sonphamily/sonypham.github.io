@@ -41,7 +41,7 @@ print("Hello World! I am Sony Pham.")
 
 ```R
 // R
-print("I love working with Data Science and Biostatistical methods!")
+print("I love working with wrangling, analyzing, and visualizing data!")
 ```
 
 ```C++
