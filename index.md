@@ -31,16 +31,6 @@ Seeking relevant experience in (1) Biostatistics  (2) Health Data Science
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### COURSEWORK
-
-| Statistics                   |   Mathematics                    | Programming                          |
-|:-----------------------------|:---------------------------------|:-------------------------------------|
-| Intro to Statistics          | Linear Algebra                   | Intro to Programming (Python)        |
-| Mathematical Statistics      | Vector Calculus                  | Applied Statistics (R)               |
-| Sample Survey Design         | Discrete Mathematics             | Computational Linear Algebra (Matlab |
-| Probability                  | Differential Equation            | Program Design (C)                   |
-| Noparamtrics Statistics      | Abstract Algebra                 | Symbolic Computation in Maths (Maple)|
-
 
 ### Programming 
 
@@ -63,6 +53,17 @@ int main()
   cout << "Hire me!";
 }
 ```
+###### COURSEWORK
+
+| Statistics                   |   Mathematics                    | Programming                          |
+|:-----------------------------|:---------------------------------|:-------------------------------------|
+| Intro to Statistics          | Linear Algebra                   | Intro to Programming (Python)        |
+| Mathematical Statistics      | Vector Calculus                  | Applied Statistics (R)               |
+| Sample Survey Design         | Discrete Mathematics             | Computational Linear Algebra (Matlab |
+| Probability                  | Differential Equation            | Program Design (C)                   |
+| Noparamtrics Statistics      | Abstract Algebra                 | Symbolic Computation in Maths (Maple)|
+
+
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
