@@ -55,6 +55,13 @@ end
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 #### CONTACT INFORMATION
+## Contact Me
+
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🔗 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- 🐙 GitHub: [Your GitHub](https://github.com/yourusername)
+- 🏠 Website: [yourwebsite.com](https://yourwebsite.com)
+
 ```
 EMAIL: thanhsonpham@usf.edu or thanhsonpham2002@gmail.com
 ```
