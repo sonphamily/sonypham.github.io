@@ -60,8 +60,8 @@ end
 - 📧 Email: [thanhsonpham2002@gmail.com](thanhsonpham2002@gmail.com)
 - 📞 Phone: [+1 (813) 593-6449](tel:+8135936449)
 - 🔗 LinkedIn: [linkedin.com/in/sonpham33102/](https://www.linkedin.com/in/sonpham33102/)
-- 🐙 GitHub: [github.com/sonphamily]([https://github.com/yourusername](https://github.com/sonphamily))
-- 🏠 Website: [sonypham.github.io]([https://yourwebsite.com](https://sonphamily.github.io/sonypham.github.io/))
+- 🐙 GitHub: [github.com/sonphamily/]([https://github.com/yourusername](https://github.com/sonphamily))
+- 🏠 Website: [sonypham.github.io/]([https://yourwebsite.com](https://sonphamily.github.io/sonypham.github.io/))
 
 ```
 EMAIL: thanhsonpham@usf.edu or thanhsonpham2002@gmail.com
