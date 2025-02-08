@@ -5,9 +5,9 @@
 
 
 # BIO
-
+```
 Hi, My name is Son Pham and I’m a Mathematics and Statistics student at the University of South Florida, Tampa. As a highly motivated research trainee in Biostatistics and Data Science, my interests involve solving interdisciplinary biomedical and health science problems in public health industry using quantitative skills including statistics, data analytics, and machine learning. I am seeking for internship experience with three following discipline 1) Biostatistical Methods, 2) Statistics , 3) Health Data Science, in order to prepare me for top graduate programs in Biostatistics.
-
+```
 ## EDUCATION
 
 > - Bachelor of Arts in Mathematics | @   University of South Florida (_December 2025_)
@@ -54,26 +54,11 @@ end
 ```
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-#### CONTACT INFORMATION
-## Contact Me
+
+### Contact Me
 
 - 📧 Email: [thanhsonpham2002@gmail.com](thanhsonpham2002@gmail.com)
 - 📞 Phone: [+1 (813) 593-6449](tel:+8135936449)
 - 🔗 LinkedIn: [linkedin.com/in/sonpham33102/](https://www.linkedin.com/in/sonpham33102/)
 - 🐙 GitHub: [github.com/sonphamily/]([https://github.com/yourusername](https://github.com/sonphamily)
 - 🏠 Website: [sonypham.github.io/]([https://yourwebsite.com](https://sonphamily.github.io/sonypham.github.io/)
-
-```
-EMAIL: thanhsonpham@usf.edu or thanhsonpham2002@gmail.com
-```
-
-```
-MOBLE PHONE: (+1) 813 - 593 - 6449
-```
-```
-LINKEDIN: https://www.linkedin.com/in/sonpham33102/
-```
-
-```
-GITHUB: https://github.com/sonphamily/
-```
