@@ -52,7 +52,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 #### CONTACT INFORMATION
 ```
