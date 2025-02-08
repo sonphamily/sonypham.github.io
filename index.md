@@ -2,7 +2,6 @@
 `TECHNICAL SKILLS: Python, R, SAS, SQL, MATLAB, C/C++, HPC Linux based, MacOS, Window, MS Office Suites, Maple, Latex`.
 
 [SPAHCeS Lab Member](https://www.spaches.org/members#h.p46uu7ue5hh6).
-[CVs/Resume](file:///Users/pham_hacker/Documents/Summer%20Intern%20Application/Otsuka%20Way/SonTPham_Resume.pdf)
 
 # BIO
 ```
