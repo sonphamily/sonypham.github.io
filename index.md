@@ -40,12 +40,12 @@ print("Hello World! I am Sony Pham.")
 ```
 
 ```R
-# R
+// R
 print("I love working with Data Science and Biostatistical methods!")
 ```
 
 ```C++
-//C++
+// C++
 #include<iostream>
 using namespace std;
 int main()
