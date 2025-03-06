@@ -43,14 +43,9 @@ print("Hello World! I am Sony Pham.")
 print("I love working with wrangling, analyzing, and visualizing data!")
 ```
 
-```C++
-// C++
-#include<iostream>
-using namespace std;
-int main()
-{
-  cout << "Hire me!";
-}
+```MATLAB
+// MATLAB
+fprintf('Hire me!')
 ```
 ###### COURSEWORK
 
