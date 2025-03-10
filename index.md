@@ -1,6 +1,14 @@
 
 `TECHNICAL SKILLS: Python, R, SAS, SQL, MATLAB, C/C++, HPC Linux based, MacOS, Window, MS Office Suites, Maple, Latex`.
+```python
+// Python
+print("Hello World! I am Sony Pham.")
+```
 
+```R
+// R
+print("I love working with analyzing data and deriving meaningful insights from it!")
+```
 [SPAHCeS Lab Member](https://www.spaches.org/members#h.p46uu7ue5hh6).
 
 # BIO
