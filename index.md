@@ -40,7 +40,7 @@ print("Hello World! I am Sony Pham.")
 
 ```R
 // R
-print("I love working with wrangling, analyzing, and visualizing data!")
+print("I love working with analyzing data and deriving meaningful insights from it!")
 ```
 
 ```MATLAB
